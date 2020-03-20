@@ -8,3 +8,41 @@ body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     background: #e6e6e6;
 }
+
+#area-cabecalho{
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#area-logo, #area-menu{
+    padding: 10px;
+}
+
+#area-principal{
+    background: white;
+    width: 920px;
+}
+
+h1{
+    font-size: 2.5em;
+    color: #4e4e4e;
+}
+
+.branco{
+    color: white;
+}
+
+a:link, a:visited {
+    color: #FFF;
+    padding: 8px 12px;
+}
+
+a:hover{
+    color: #f7b600;
+    background: #FFF;
+}
+
+a{
+    text-decoration: none;
+}
