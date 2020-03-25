@@ -85,22 +85,23 @@ body.fotos #navegacao a#fotos{
     width: 230px;
     float: right;
     margin: 0 0 20px 15px;
-    margin-top: -284.1px
+    margin-top: -738.2px
 }
 
 #lateral{
     width: 180px;
     float: left;
     margin: 0 0 20px -750x;
-    margin-top: -284.1px;
+    margin-top: -738.2px;
 }
 
-
+#duas-colunas #lateral{
+    margin-top: -887.2px;
+}
 
 #duas-colunas #primario{
-    width: 597px;
-    float: center;
-    margin: 0 0 20px 75px;
+    width: 540px;
+    float: left;
 }
 
 #uma-coluna #primario{
@@ -221,6 +222,7 @@ img.imagem-principal{
 
 #lista-noticias li p{
     font-size: 0.7em;
+    color: black;
 }
 
 #lista-noticias li a{
@@ -231,4 +233,13 @@ img.imagem-principal{
 #lista-noticias li:hover{
     background: #eee;
     cursor: pointer;
+}
+
+a:link, a:visited{
+    color: #b10333;
+    padding: 2px;
+}
+ 
+a:hover{
+    color: #e50040;
 }
