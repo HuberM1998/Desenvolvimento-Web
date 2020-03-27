@@ -61,3 +61,16 @@ nav ul li a:link{
 nav ul li a:hover{
     border-bottom: 1px solid #535858;
 }
+
+/*Barra de navegação
+-----------------------------------*/
+#conteudo{
+    width: 710px;
+    float: left;
+}
+
+aside{
+    width: 350;
+    float: right;
+    background: #ebe7dd;
+}
