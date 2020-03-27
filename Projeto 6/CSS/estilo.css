@@ -98,6 +98,36 @@ section#galeria img{
     margin-top: 3px;
 }
 
+h3{
+    color: #227115;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+article#video{
+    float: left;
+    width: 310px;
+    margin-left: 25px;
+}
+
+article#mapa{
+    float: left;
+    width: 310px;
+    margin-left: 25px;
+}
+
+article#exposicoes{
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 25px;
+}
+
+article#historia{
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 25px;
+}
 h4{
     color: #86521a;
     text-transform: uppercase;
