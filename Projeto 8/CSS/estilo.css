@@ -114,6 +114,11 @@ nav.navbar-transparente{
     -webkit-transform: rotate(30deg);
     transform: rotate(30deg);
 }
+.carousel-control-next,.carousel-control-prev{
+    margin-top: 80px;
+    width: 2.5%;
+}
+
 
 /*          TIPOGRAFIA
 ------------------------------------------- */
@@ -193,7 +198,7 @@ footer ul{
 footer ul li{
     float: right;
     margin: 0px 5px;
-    
+
 }
 
 footer .navbar-nav a{
