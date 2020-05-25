@@ -3,4 +3,3 @@ SELECT id_curso, resumo, ativo, carga_horaria, data_cadastro, imagem_curso, inve
 SELECT id_curso, resumo FROM tb_cursos;
 
 SELECT * FROM tb_cursos;
-
